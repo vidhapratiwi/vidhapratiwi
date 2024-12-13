@@ -1,4 +1,4 @@
-# Hi! Thanks for stopping by 🙋‍♀️  
+# Hi! 🙋‍♀️  
 Welcome to my GitHub profile! I'm a Junior QA Engineer building my skills in software testing and automation. I enjoy exploring new tools and improving software quality. Let's connect and collaborate! 🌱
 
 ## About Me  
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Junior QA Engineer building my skills in sof
 
 ## QA Portfolio  
 Check out my full portfolio for more details about my testing work and documentation:  
-👉 **[QA Portfolio]([https://github.com/username/QA-Portfolio](https://github.com/vidhapratiwi/QA-Portfolio.git))**  
+👉 **[QA Portfolio](https://github.com/vidhapratiwi/QA-Portfolio.git)**  
 
 ## Let's Connect  
 - 📧 Email: vidharossa13@gmail.com
